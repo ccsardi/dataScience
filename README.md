@@ -1,2 +1,2 @@
 # dataScience
-Data science specialization exercise
+Data science specialization exercises
